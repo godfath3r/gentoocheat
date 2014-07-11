@@ -4,7 +4,8 @@
                 -D: Deep dependency resolving
                 -u: update
 
-                Also usefull: --newuse: emerge those pkgs with changed flags
+                Also usefull: 
+                --newuse: emerge those pkgs with changed flags
                 -q: for quiet output 
 .
 
